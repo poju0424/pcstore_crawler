@@ -8,7 +8,5 @@ python version: 3.6.8
 
 ## For testing:
     python test.py [keyword]
-e.g. 
-    python test.py 小米 
-
+e.g. python test.py 小米 
 will return a list of result with 小米 as keyword.
